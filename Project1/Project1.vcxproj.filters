@@ -21,5 +21,14 @@
     <ClCompile Include="源.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="一个n!与100的n次方的比值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="熄灯问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="001特殊密码锁.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

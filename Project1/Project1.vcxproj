@@ -139,8 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="001特殊密码锁.cpp" />
+    <ClCompile Include="一个n!与100的n次方的比值.cpp" />
     <ClCompile Include="完美立方.cpp" />
     <ClCompile Include="源.cpp" />
+    <ClCompile Include="熄灯问题.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
